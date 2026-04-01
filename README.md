@@ -29,10 +29,10 @@
 * **Баг-репортинг:** составление детальных отчетов о дефектах с указанием специфики мобильного окружения.
 
 ### Ссылки на артефакты:
-* 📊 [Google Таблица: Чек-лист и баг-репорты (Яндекс.Метро)](https://docs.google.com/spreadsheets/d/1m2HotXL-UkdCw2oKYcyseLPtNRvqBPl24RLoqwvDUf0/edit?gid=899462569#gid=899462569) — включает чек-листы для новой функциональности и мобильной регрессии.
+* 📊 [Google Таблица: Чек-лист и баг-репорты (Яндекс.Метро)](https://docs.google.com/spreadsheets/d/1m2HotXL-UkdCw2oKYcyseLPtNRvqBPl24RLoqwvDUf0/edit?gid=899462569#gid=899462569)
 
 ### Инструментарий:
-* **Android Studio (Emulator)**, **Google Sheets**.
+* **Android Studio (Emulator)**
 
 ---
 
@@ -47,7 +47,7 @@
 * **Баг-репортинг:** фиксация дефектов интерфейса и логики с подробными шагами воспроизведения.
 
 ### Ссылки на артефакты:
-* 📊 [Google Таблица: Чек-листы и тест-кейсы (Яндекс.Маршруты)](https://docs.google.com/spreadsheets/d/1TvYPHxl-cQecihQn8-hY3JXx4cBWE0bXL5EGIDnYPAs/edit?pli=1&gid=899462569#gid=899462569) — документация для UI/UX тестирования и логики оплаты.
+* 📊 [Google Таблица: Чек-листы и тест-кейсы (Яндекс.Маршруты)](https://docs.google.com/spreadsheets/d/1TvYPHxl-cQecihQn8-hY3JXx4cBWE0bXL5EGIDnYPAs/edit?pli=1&gid=899462569#gid=899462569) 
 
 ### Инструментарий:
-* **Figma**, **Chrome DevTools**, **Google Sheets**.
+* **Figma**, **Chrome DevTools**
