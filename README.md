@@ -19,7 +19,7 @@ Android, Studio Postman, Google Chrome, Yandex Browser, PostgreSQL, Figma
 🔗 **Артефакты проекта:**
 *   [🐛 Вкладка: Реестр из 74 подробных Баг-репортов](https://docs.google.com/spreadsheets/d/1crDo_mMth-RDFDEV4HyX-7QGnnTOxW0edq64IN4zDu8/edit?gid=791488173#gid=791488173)
 *   [📋 Вкладка: Тест-кейсы для мобильного приложения (Интеграция с API)](https://docs.google.com/spreadsheets/d/1crDo_mMth-RDFDEV4HyX-7QGnnTOxW0edq64IN4zDu8/edit?gid=424948590#gid=424948590)
-*   [📊 Вкладка: Анализ граничных значений и классов эквивалентности (Веб)][(https://docs.google.com/spreadsheets/d/1crDo_mMth-RDFDEV4HyX-7QGnnTOxW0edq64IN4zDu8/edit?gid=1540465171#gid=1540465171)
+*   [📊 Вкладка: Анализ граничных значений и классов эквивалентности (Веб)](https://docs.google.com/spreadsheets/d/1crDo_mMth-RDFDEV4HyX-7QGnnTOxW0edq64IN4zDu8/edit?gid=1540465171#gid=1540465171)
 *   [🐛 Вкладка: Найденные дефекты вне тестовой документации](https://docs.google.com/spreadsheets/d/1crDo_mMth-RDFDEV4HyX-7QGnnTOxW0edq64IN4zDu8/edit?gid=1539613303#gid=1539613303)
 *   [📋 Вкладка: Чек-лист (Веб)](https://docs.google.com/spreadsheets/d/1crDo_mMth-RDFDEV4HyX-7QGnnTOxW0edq64IN4zDu8/edit?gid=943703744#gid=943703744)
 
