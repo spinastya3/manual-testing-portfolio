@@ -34,7 +34,7 @@
 *   **Баг-репортинг:** Фиксация дефектов, найденных в ходе выполнения интеграционных и позитивных/негативных проверок.
 
 🛠 **Инструменты:** 
-![Postman](https://shields.io) ![Swagger](https://shields.io)
+![Postman] ![Swagger]
 
 🔗 **Артефакты:** [📊 Google Таблица: Чек-лист и результаты тестов (более 100 проверок API)](https://docs.google.com/spreadsheets/d/1LmHhenwbE_nQMpJdR0_0InDabNXxmbP8VA0nT0xydAA/edit?gid=2006427015#gid=2006427015)
 
@@ -50,7 +50,7 @@
 *   **Баг-репортинг:** Составление детальных отчетов о дефектах с указанием специфики мобильного окружения.
 
 🛠 **Инструменты:** 
-![Android Studio](https://shields.io) ![ADB](https://shields.io)
+![Android Studio] !
 
 🔗 **Артефакты:** [📊 Google Таблица: Чек-лист и баг-репорты (Яндекс.Метро)](https://docs.google.com/spreadsheets/d/1m2HotXL-UkdCw2oKYcyseLPtNRvqBPl24RLoqwvDUf0/edit?gid=899462569#gid=899462569)
 
@@ -66,7 +66,7 @@
 *   **Баг-репортинг:** Фиксация дефектов интерфейса и логики с подробными шагами воспроизведения (STR).
 
 🛠 **Инструменты:** 
-![Figma](https://shields.io) ![Chrome DevTools](https://shields.io)
+![Figma] ![Chrome DevTools]
 
 🔗 **Артефакты:** [📊 Google Таблица: Чек-листы и тест-кейсы (Яндекс.Маршруты)](https://docs.google.com/spreadsheets/d/1TvYPHxl-cQecihQn8-hY3JXx4cBWE0bXL5EGIDnYPAs/edit?pli=1&gid=899462569#gid=899462569)
 
