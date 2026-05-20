@@ -14,7 +14,7 @@
 *   **Кроссбраузерность и адаптивность:** Проведение проверок отображения элементов интерфейса в браузерах *Google Chrome* и *Яндекс.Браузер* на разрешениях *1920×1080* и *1280×720*.
 
 🛠 **Инструменты:** 
-![Android Studio] ![Postman] ![Google Chrome] ![Yandex Browser] ![PostgreSQL] ![Figma]
+Android Studio Postman Google Chrome Yandex Browser PostgreSQL Figma
 
 🔗 **Артефакты проекта:**
 *   [🐛 Вкладка: Реестр из 74 подробных Баг-репортов][(https://docs.google.com/spreadsheets/d/1crDo_mMth-RDFDEV4HyX-7QGnnTOxW0edq64IN4zDu8/edit?gid=791488173#gid=791488173)]
@@ -34,7 +34,7 @@
 *   **Баг-репортинг:** Фиксация дефектов, найденных в ходе выполнения интеграционных и позитивных/негативных проверок.
 
 🛠 **Инструменты:** 
-![Postman] ![Swagger]
+Postman Swagger
 
 🔗 **Артефакты:** [📊 Google Таблица: Чек-лист и результаты тестов (более 100 проверок API)](https://docs.google.com/spreadsheets/d/1LmHhenwbE_nQMpJdR0_0InDabNXxmbP8VA0nT0xydAA/edit?gid=2006427015#gid=2006427015)
 
@@ -50,7 +50,7 @@
 *   **Баг-репортинг:** Составление детальных отчетов о дефектах с указанием специфики мобильного окружения.
 
 🛠 **Инструменты:** 
-![Android Studio] !
+Android Studio
 
 🔗 **Артефакты:** [📊 Google Таблица: Чек-лист и баг-репорты (Яндекс.Метро)](https://docs.google.com/spreadsheets/d/1m2HotXL-UkdCw2oKYcyseLPtNRvqBPl24RLoqwvDUf0/edit?gid=899462569#gid=899462569)
 
@@ -66,7 +66,7 @@
 *   **Баг-репортинг:** Фиксация дефектов интерфейса и логики с подробными шагами воспроизведения (STR).
 
 🛠 **Инструменты:** 
-![Figma] ![Chrome DevTools]
+Figma Chrome DevTools
 
 🔗 **Артефакты:** [📊 Google Таблица: Чек-листы и тест-кейсы (Яндекс.Маршруты)](https://docs.google.com/spreadsheets/d/1TvYPHxl-cQecihQn8-hY3JXx4cBWE0bXL5EGIDnYPAs/edit?pli=1&gid=899462569#gid=899462569)
 
