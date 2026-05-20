@@ -14,7 +14,7 @@
 *   **Кроссбраузерность и адаптивность:** Проведение проверок отображения элементов интерфейса в браузерах *Google Chrome* и *Яндекс.Браузер* на разрешениях *1920×1080* и *1280×720*.
 
 🛠 **Инструменты:** 
-![Android Studio](https://shields.io) ![Postman](https://shields.io) ![Google Chrome](https://shields.io) ![Yandex Browser](https://shields.io) ![PostgreSQL](https://shields.io) ![Figma](https://shields.io)
+![Android Studio] ![Postman] ![Google Chrome] ![Yandex Browser] ![PostgreSQL] ![Figma]
 
 🔗 **Артефакты проекта:**
 *   [🐛 Вкладка: Реестр из 74 подробных Баг-репортов][(https://docs.google.com/spreadsheets/d/1crDo_mMth-RDFDEV4HyX-7QGnnTOxW0edq64IN4zDu8/edit?gid=791488173#gid=791488173)]
